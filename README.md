@@ -1,7 +1,7 @@
 # CoderUtils
 
 
-This is an **CoderUtils** is powerful and easy to use library. You can access Utils class method to make your work easy. This library provide huge number of programming method to reduse developing time.
+This is powerful and easy to use library. You can access Utils class method to make your work easy. This library provide huge number of programming method to reduse developing time.
 
 </br>
 
