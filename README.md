@@ -7,7 +7,7 @@ This is an [**CoderUtils**] project. You can access Utils class method to make y
 
 # Setup
 
-This library requires `minSdkVersion` to be set to `16` or above.
+This library requires `minSdkVersion` to `16` or above.
 
 #### Step #1. Add the JitPack repository to your build file:
 
