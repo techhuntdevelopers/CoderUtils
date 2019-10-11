@@ -24,6 +24,6 @@ allprojects {
 
 ```groovy
 dependencies {
-       implementation 'implementation 'com.github.techhuntdevelopers:CoderUtils:1.0.0'
+       implementation 'com.github.techhuntdevelopers:CoderUtils:1.0.0'
 }
 ```
