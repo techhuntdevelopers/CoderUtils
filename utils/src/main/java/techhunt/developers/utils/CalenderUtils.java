@@ -1,5 +1,7 @@
 package techhunt.developers.utils;
 
+import android.text.format.DateFormat;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -11,6 +13,11 @@ public class CalenderUtils {
     public static Date getCurrentDate() {
         return Calendar.getInstance().getTime();
     }
+
+    public static String getDateFrommMilli(long date, String formate) {
+        return DateFormat.format(formate, new Date(date)).toString();
+    }
+
 
     public static String getCurrentDateString(String format) {
         SimpleDateFormat df = new SimpleDateFormat(format);
